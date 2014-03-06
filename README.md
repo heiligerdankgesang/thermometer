@@ -1,0 +1,4 @@
+thermometer
+===========
+
+Thermometer Class
